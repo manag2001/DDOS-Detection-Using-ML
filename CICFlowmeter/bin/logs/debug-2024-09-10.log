@@ -1,0 +1,87 @@
+2024-09-10 04:35:58 INFO  cic.cs.unb.ca.ifm.Cmd    You select: inputs
+2024-09-10 04:35:58 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: outputs
+2024-09-10 04:35:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on inputs\port scan2.pcap
+2024-09-10 15:43:48 INFO  cic.cs.unb.ca.ifm.Cmd    You select: inputs
+2024-09-10 15:43:48 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: outputs
+2024-09-10 15:43:50 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on inputs\amp.TCP.reflection.SYNACK.pcap
+2024-09-10 22:36:54 INFO  cic.cs.unb.ca.ifm.Cmd    You select: inputs
+2024-09-10 22:36:54 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: outputs
+2024-09-10 22:36:56 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on inputs\amp.TCP.reflection.SYNACK.pcap
+2024-09-10 22:36:56 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*a2 f4 01 00  01 d6 28 cf* e9 18 b5 ed  08 06 00 01    ......(.........
+0010: 08 00 06 04  00 01 28 cf  e9 18 b5 ed  0a 64 9f 26    ......(......d.&
+0020: 00 00 00 00  00 00 0a 64  98 01 00 00  00 00 00 00    .......d........
+0030: 00 00 00 00  00 00 00 00  00 00 00 00*                ............    
+
+
+2024-09-10 22:36:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 1600 flow
+2024-09-10 22:36:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 2200 flow
+2024-09-10 22:36:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 2200 flow
+2024-09-10 22:36:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 2900 flow
+2024-09-10 22:36:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 2950 flow
+2024-09-10 22:36:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 2950 flow
+2024-09-10 22:36:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 3400 flow
+2024-09-10 22:36:57 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*a2 f4 01 00  01 d6 28 cf* e9 18 b5 ed  08 06 00 01    ......(.........
+0010: 08 00 06 04  00 01 28 cf  e9 18 b5 ed  0a 64 9f 26    ......(......d.&
+0020: 00 00 00 00  00 00 0a 64  98 01 00 00  00 00 00 00    .......d........
+0030: 00 00 00 00  00 00 00 00  00 00 00 00*                ............    
+
+
+2024-09-10 22:36:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 4650 flow
+2024-09-10 22:36:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 6600 flow
+2024-09-10 22:36:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 6850 flow
+2024-09-10 22:36:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 7100 flow
+2024-09-10 22:36:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 7600 flow
+2024-09-10 22:36:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 7600 flow
+2024-09-10 22:36:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 8100 flow
+2024-09-10 22:36:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 8350 flow
+2024-09-10 22:36:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 8600 flow
+2024-09-10 22:36:57 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*a2 f4 01 00  01 d6 28 cf* e9 18 b5 ed  08 06 00 01    ......(.........
+0010: 08 00 06 04  00 01 28 cf  e9 18 b5 ed  0a 64 9f 26    ......(......d.&
+0020: 00 00 00 00  00 00 0a 64  98 01 00 00  00 00 00 00    .......d........
+0030: 00 00 00 00  00 00 00 00  00 00 00 00*                ............    
+
+
+2024-09-10 22:36:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 9050 flow
+2024-09-10 22:36:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 9200 flow
+2024-09-10 22:36:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 9400 flow
+2024-09-10 22:36:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 9450 flow
+2024-09-10 22:36:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 9450 flow
+2024-09-10 22:36:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 9600 flow
+2024-09-10 22:36:58 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*a2 f4 01 00  01 d6 28 cf* e9 18 b5 ed  08 06 00 01    ......(.........
+0010: 08 00 06 04  00 01 28 cf  e9 18 b5 ed  0a 64 9f 26    ......(......d.&
+0020: 00 00 00 00  00 00 0a 64  98 01 00 00  00 00 00 00    .......d........
+0030: 00 00 00 00  00 00 00 00  00 00 00 00*                ............    
+
+
+2024-09-10 22:36:58 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*a2 f4 01 00  01 d6 28 cf* e9 18 b5 ed  08 06 00 01    ......(.........
+0010: 08 00 06 04  00 01 28 cf  e9 18 b5 ed  0a 64 9f 26    ......(......d.&
+0020: 00 00 00 00  00 00 0a 64  98 01 00 00  00 00 00 00    .......d........
+0030: 00 00 00 00  00 00 00 00  00 00 00 00*                ............    
+
+
+2024-09-10 22:36:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 9800 flow
+2024-09-10 22:36:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 10150 flow
+2024-09-10 22:36:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 10300 flow
+2024-09-10 22:36:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 10550 flow
+2024-09-10 22:36:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 10950 flow
+2024-09-10 22:36:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 11000 flow
+2024-09-10 22:36:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 11000 flow
+2024-09-10 22:36:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 11250 flow
+2024-09-10 22:36:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 11300 flow
+2024-09-10 22:36:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 11500 flow
+2024-09-10 22:36:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 11500 flow
+2024-09-10 22:36:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 11850 flow
+2024-09-10 22:36:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 11850 flow
+2024-09-10 22:36:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 12050 flow
+2024-09-10 22:36:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    Timeout current has 12100 flow
+2024-09-10 22:36:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on inputs\port-scan-alert.pcap

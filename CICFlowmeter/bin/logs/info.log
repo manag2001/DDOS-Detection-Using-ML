@@ -1,0 +1,149 @@
+2021-09-27 14:32:31 - Pcap is listening...
+2021-09-27 14:35:48 - Pcap stop listening
+2021-09-27 14:35:48 - path:D:\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-27_Flow.csv
+2021-09-27 14:42:50 - path:D:\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-27_Flow.csv
+2021-09-27 14:49:50 - Pcap is listening...
+2021-09-27 14:52:55 - Pcap stop listening
+2021-09-27 14:52:55 - path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-27_Flow.csv
+2021-09-27 14:53:05 - Pcap is listening...
+2021-09-27 14:54:31 - Pcap stop listening
+2021-09-27 14:54:31 - path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-27_Flow.csv
+2021-09-27 14:54:49 - path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-27_Flow.csv
+2021-09-27 14:54:49 - path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-27_Flow.csv
+2021-09-27 14:56:26 - Pcap is listening...
+2021-09-27 16:01:14 - Pcap stop listening
+2021-09-27 16:01:14 - path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-27_Flow.csv
+2021-09-29 19:01:19 - Pcap is listening...
+2021-09-29 19:04:20 - Pcap stop listening
+2021-09-29 19:04:20 - path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-29_Flow.csv
+2021-09-29 19:07:47 - path:C:\Users\Network Lab\Desktop\J L Shreya\CICFlowMeter and ISCXFlowMeter\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2021-09-29_Flow.csv
+2021-12-19 20:29:20 - Pcap is listening...
+2021-12-19 20:34:17 - Pcap stop listening
+2021-12-19 20:34:17 - path:F:\CICFlowMeter-4.0\bin\data\daily\2021-12-19_Flow.csv
+2021-12-19 20:40:47 - Pcap is listening...
+2021-12-19 20:41:21 - Pcap stop listening
+2021-12-19 20:41:22 - path:F:\CICFlowMeter-4.0\bin\data\daily\2021-12-19_Flow.csv
+2023-04-02 20:15:04 - Please select pcap!
+2023-04-02 20:24:48 - Pcap is listening...
+2023-04-02 20:26:08 - Pcap stop listening
+2023-04-02 20:26:08 - path:C:\Users\TribeConnect\Downloads\cicflowmeter\bin\data\daily\2023-04-02_Flow.csv
+2023-04-02 20:26:11 - Pcap is listening...
+2023-04-02 20:27:19 - Pcap stop listening
+2023-04-02 20:27:19 - path:C:\Users\TribeConnect\Downloads\cicflowmeter\bin\data\daily\2023-04-02_Flow.csv
+2023-04-02 20:27:20 - Pcap is listening...
+2023-04-02 20:27:22 - Pcap stop listening
+2023-04-02 20:27:22 - path:C:\Users\TribeConnect\Downloads\cicflowmeter\bin\data\daily\2023-04-02_Flow.csv
+2024-09-09 22:51:34 - You select: inputs
+2024-09-09 22:51:34 - Out folder: outputs
+2024-09-09 22:59:31 - You select: inputs
+2024-09-09 22:59:31 - Out folder: outputs
+2024-09-09 23:10:13 - You select: inputs
+2024-09-09 23:10:13 - Out folder: outputs
+2024-09-10 04:35:58 - You select: inputs
+2024-09-10 04:35:58 - Out folder: outputs
+2024-09-10 15:43:48 - You select: inputs
+2024-09-10 15:43:48 - Out folder: outputs
+2024-09-10 22:36:54 - You select: inputs
+2024-09-10 22:36:54 - Out folder: outputs
+2024-09-11 22:38:20 - You select: inputs
+2024-09-11 22:38:20 - Out folder: outputs
+2024-09-14 17:26:48 - You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726312770_00001_20240914161931.pcap
+2024-09-14 17:26:48 - Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726312770_00001_20240914161931.csv
+2024-09-14 17:26:49 - CICFlowMeter received 1 pcap file
+2024-09-14 17:26:49 - Error while opening file for capture: bad dump file format
+2024-09-14 17:31:02 - You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726316981_00001_20240914172943.pcap
+2024-09-14 17:31:02 - Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726316981_00001_20240914172943.csv
+2024-09-14 17:31:02 - CICFlowMeter received 1 pcap file
+2024-09-14 17:31:02 - Error while opening file for capture: bad dump file format
+2024-09-14 17:31:03 - You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726316981_00002_20240914172959.pcap
+2024-09-14 17:31:03 - Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726316981_00002_20240914172959.csv
+2024-09-14 17:31:04 - CICFlowMeter received 1 pcap file
+2024-09-14 17:31:04 - Error while opening file for capture: bad dump file format
+2024-09-14 17:31:05 - You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726316981_00003_20240914173000.pcap
+2024-09-14 17:31:05 - Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726316981_00003_20240914173000.csv
+2024-09-14 17:31:06 - CICFlowMeter received 1 pcap file
+2024-09-14 17:31:06 - Error while opening file for capture: bad dump file format
+2024-09-14 17:31:07 - You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726316981_00004_20240914173003.pcap
+2024-09-14 17:31:07 - Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726316981_00004_20240914173003.csv
+2024-09-14 17:31:07 - CICFlowMeter received 1 pcap file
+2024-09-14 17:31:07 - Error while opening file for capture: bad dump file format
+2024-09-14 17:31:08 - You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726316981_00005_20240914173009.pcap
+2024-09-14 17:31:08 - Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726316981_00005_20240914173009.csv
+2024-09-14 17:31:09 - CICFlowMeter received 1 pcap file
+2024-09-14 17:31:09 - Error while opening file for capture: bad dump file format
+2024-09-14 17:31:10 - You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726316981_00006_20240914173017.pcap
+2024-09-14 17:31:10 - Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726316981_00006_20240914173017.csv
+2024-09-14 17:31:10 - CICFlowMeter received 1 pcap file
+2024-09-14 17:31:10 - Error while opening file for capture: bad dump file format
+2024-09-14 17:31:11 - You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726316981_00007_20240914173021.pcap
+2024-09-14 17:31:11 - Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726316981_00007_20240914173021.csv
+2024-09-14 17:31:12 - CICFlowMeter received 1 pcap file
+2024-09-14 17:31:12 - Error while opening file for capture: bad dump file format
+2024-09-14 17:38:42 - You select: inputs
+2024-09-14 17:38:42 - Out folder: outputs
+2024-09-14 17:38:43 - Error while opening file for capture: bad dump file format
+2024-09-14 17:57:27 - You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726318596_00001_20240914175638.pcap
+2024-09-14 17:57:27 - Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726318596_00001_20240914175638.csv
+2024-09-14 17:57:28 - CICFlowMeter received 1 pcap file
+2024-09-14 17:57:28 - Error while opening file for capture: bad dump file format
+2024-09-14 17:57:29 - You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726318606_00001_20240914175648.pcap
+2024-09-14 17:57:29 - Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726318606_00001_20240914175648.csv
+2024-09-14 17:57:30 - CICFlowMeter received 1 pcap file
+2024-09-14 17:57:30 - Error while opening file for capture: bad dump file format
+2024-09-14 17:57:31 - You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726318616_00001_20240914175657.pcap
+2024-09-14 17:57:31 - Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726318616_00001_20240914175657.csv
+2024-09-14 17:57:31 - CICFlowMeter received 1 pcap file
+2024-09-14 17:57:31 - Error while opening file for capture: bad dump file format
+2024-09-14 18:05:49 - You select: inputs
+2024-09-14 18:05:49 - Out folder: outputs
+2024-09-14 18:06:04 - You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture.pcap
+2024-09-14 18:06:04 - Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture.csv
+2024-09-14 18:06:05 - CICFlowMeter received 1 pcap file
+2024-09-14 18:07:38 - You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture.pcap
+2024-09-14 18:07:38 - Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture.csv
+2024-09-14 18:07:39 - CICFlowMeter received 1 pcap file
+2024-09-15 01:08:39 - You select: inputs
+2024-09-15 01:08:39 - Out folder: outputs
+2024-09-15 02:30:50 - You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726349254_00001_20240915022735.pcap
+2024-09-15 02:30:50 - Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726349254_00001_20240915022735.csv
+2024-09-15 02:30:50 - CICFlowMeter received 1 pcap file
+2024-09-15 02:30:52 - You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726349344_00001_20240915022905.pcap
+2024-09-15 02:30:52 - Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726349344_00001_20240915022905.csv
+2024-09-15 02:30:52 - CICFlowMeter received 1 pcap file
+2024-09-15 02:30:53 - You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726349434_00001_20240915023035.pcap
+2024-09-15 02:30:53 - Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726349434_00001_20240915023035.csv
+2024-09-15 02:30:53 - CICFlowMeter received 1 pcap file
+2024-09-15 02:35:10 - You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726349254_00001_20240915022735.pcap
+2024-09-15 02:35:10 - Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726349254_00001_20240915022735.csv
+2024-09-15 02:35:10 - CICFlowMeter received 1 pcap file
+2024-09-15 02:35:11 - You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726349344_00001_20240915022905.pcap
+2024-09-15 02:35:11 - Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726349344_00001_20240915022905.csv
+2024-09-15 02:35:12 - CICFlowMeter received 1 pcap file
+2024-09-15 02:35:13 - You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726349434_00001_20240915023035.pcap
+2024-09-15 02:35:13 - Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726349434_00001_20240915023035.csv
+2024-09-15 02:35:13 - CICFlowMeter received 1 pcap file
+2024-09-15 02:37:19 - You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726349254_00001_20240915022735.pcap
+2024-09-15 02:37:19 - Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs
+2024-09-15 02:37:19 - CICFlowMeter received 1 pcap file
+2024-09-15 02:37:21 - You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726349344_00001_20240915022905.pcap
+2024-09-15 02:37:21 - Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs
+2024-09-15 02:37:21 - CICFlowMeter received 1 pcap file
+2024-09-15 02:37:22 - You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726349434_00001_20240915023035.pcap
+2024-09-15 02:37:22 - Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs
+2024-09-15 02:37:22 - CICFlowMeter received 1 pcap file
+2024-09-16 19:05:49 - Please select pcap!
+2024-09-16 19:06:26 - You select: inputs/
+2024-09-16 19:06:26 - Out folder: outputs/
+2024-09-16 20:01:46 - Please select pcap!
+2024-09-16 20:03:41 - You select: /home/amna/Desktop/FYP_BACKEND/CICFlowmeter/bin/inputs/capture_1726498347_00001_20240916195227.pcap
+2024-09-16 20:03:41 - Out folder: /home/amna/Desktop/FYP_BACKEND/CICFlowmeter/bin/outputs
+2024-09-16 20:03:42 - CICFlowMeter received 1 pcap file
+2024-09-25 01:06:26 - You select: /home/amna/Desktop/FYP_BACKEND/CICFlowmeter/bin/inputs/capture_1727208240_00002_20240925010500.pcap
+2024-09-25 01:06:26 - Out folder: /home/amna/Desktop/FYP_BACKEND/CICFlowmeter/bin/outputs
+2024-09-25 01:06:27 - CICFlowMeter received 1 pcap file
+2024-09-25 01:06:31 - You select: /home/amna/Desktop/FYP_BACKEND/CICFlowmeter/bin/inputs/capture_1727208330_00001_20240925010531.pcap
+2024-09-25 01:06:31 - Out folder: /home/amna/Desktop/FYP_BACKEND/CICFlowmeter/bin/outputs
+2024-09-25 01:06:32 - CICFlowMeter received 1 pcap file
+2024-09-25 01:06:36 - You select: /home/amna/Desktop/FYP_BACKEND/CICFlowmeter/bin/inputs/capture_1727208240_00001_20240925010403.pcap
+2024-09-25 01:06:36 - Out folder: /home/amna/Desktop/FYP_BACKEND/CICFlowmeter/bin/outputs
+2024-09-25 01:06:37 - CICFlowMeter received 1 pcap file

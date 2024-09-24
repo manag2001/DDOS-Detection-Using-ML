@@ -1,0 +1,42 @@
+2024-09-09 22:42:31 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\abdur\Downloads\portscan.pcap
+2024-09-09 22:42:55 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output D:\
+2024-09-09 22:42:57 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\abdur\Downloads\portscan.pcap
+2024-09-09 22:42:57 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\abdur\Downloads\portscan.pcap
+2024-09-09 22:51:34 INFO  cic.cs.unb.ca.ifm.Cmd    You select: inputs
+2024-09-09 22:51:34 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: outputs
+2024-09-09 22:51:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on inputs\portscan.pcap
+2024-09-09 22:59:31 INFO  cic.cs.unb.ca.ifm.Cmd    You select: inputs
+2024-09-09 22:59:31 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: outputs
+2024-09-09 22:59:32 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on inputs\dosattack.pcap
+2024-09-09 23:10:13 INFO  cic.cs.unb.ca.ifm.Cmd    You select: inputs
+2024-09-09 23:10:13 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: outputs
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3382 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3382 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3383 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3383 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3384 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3384 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3387 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3387 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3388 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3388 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3389 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3389 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5998 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5998 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5999 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5999 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6000 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6000 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6414 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6414 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6415 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6415 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6416 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6416 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7424 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7423 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7425 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7425 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7453 flow
+2024-09-09 23:10:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on inputs\port scan.pcap

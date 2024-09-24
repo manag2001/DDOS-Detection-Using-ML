@@ -1,0 +1,79 @@
+2024-09-14 17:26:48 INFO  cic.cs.unb.ca.ifm.Cmd    You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726312770_00001_20240914161931.pcap
+2024-09-14 17:26:48 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726312770_00001_20240914161931.csv
+2024-09-14 17:26:49 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-09-14 17:26:49 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: bad dump file format
+2024-09-14 17:31:02 INFO  cic.cs.unb.ca.ifm.Cmd    You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726316981_00001_20240914172943.pcap
+2024-09-14 17:31:02 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726316981_00001_20240914172943.csv
+2024-09-14 17:31:02 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-09-14 17:31:02 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: bad dump file format
+2024-09-14 17:31:03 INFO  cic.cs.unb.ca.ifm.Cmd    You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726316981_00002_20240914172959.pcap
+2024-09-14 17:31:03 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726316981_00002_20240914172959.csv
+2024-09-14 17:31:04 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-09-14 17:31:04 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: bad dump file format
+2024-09-14 17:31:05 INFO  cic.cs.unb.ca.ifm.Cmd    You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726316981_00003_20240914173000.pcap
+2024-09-14 17:31:05 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726316981_00003_20240914173000.csv
+2024-09-14 17:31:06 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-09-14 17:31:06 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: bad dump file format
+2024-09-14 17:31:07 INFO  cic.cs.unb.ca.ifm.Cmd    You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726316981_00004_20240914173003.pcap
+2024-09-14 17:31:07 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726316981_00004_20240914173003.csv
+2024-09-14 17:31:07 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-09-14 17:31:07 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: bad dump file format
+2024-09-14 17:31:08 INFO  cic.cs.unb.ca.ifm.Cmd    You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726316981_00005_20240914173009.pcap
+2024-09-14 17:31:08 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726316981_00005_20240914173009.csv
+2024-09-14 17:31:09 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-09-14 17:31:09 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: bad dump file format
+2024-09-14 17:31:10 INFO  cic.cs.unb.ca.ifm.Cmd    You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726316981_00006_20240914173017.pcap
+2024-09-14 17:31:10 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726316981_00006_20240914173017.csv
+2024-09-14 17:31:10 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-09-14 17:31:10 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: bad dump file format
+2024-09-14 17:31:11 INFO  cic.cs.unb.ca.ifm.Cmd    You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726316981_00007_20240914173021.pcap
+2024-09-14 17:31:11 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726316981_00007_20240914173021.csv
+2024-09-14 17:31:12 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-09-14 17:31:12 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: bad dump file format
+2024-09-14 17:38:42 INFO  cic.cs.unb.ca.ifm.Cmd    You select: inputs
+2024-09-14 17:38:42 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: outputs
+2024-09-14 17:38:43 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: bad dump file format
+2024-09-14 17:57:27 INFO  cic.cs.unb.ca.ifm.Cmd    You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726318596_00001_20240914175638.pcap
+2024-09-14 17:57:27 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726318596_00001_20240914175638.csv
+2024-09-14 17:57:28 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-09-14 17:57:28 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: bad dump file format
+2024-09-14 17:57:29 INFO  cic.cs.unb.ca.ifm.Cmd    You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726318606_00001_20240914175648.pcap
+2024-09-14 17:57:29 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726318606_00001_20240914175648.csv
+2024-09-14 17:57:30 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-09-14 17:57:30 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: bad dump file format
+2024-09-14 17:57:31 INFO  cic.cs.unb.ca.ifm.Cmd    You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture_1726318616_00001_20240914175657.pcap
+2024-09-14 17:57:31 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture_1726318616_00001_20240914175657.csv
+2024-09-14 17:57:31 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-09-14 17:57:31 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: bad dump file format
+2024-09-14 18:05:49 INFO  cic.cs.unb.ca.ifm.Cmd    You select: inputs
+2024-09-14 18:05:49 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: outputs
+2024-09-14 18:05:50 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2024-09-14 18:05:50 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2024-09-14 18:05:50 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2024-09-14 18:05:50 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2024-09-14 18:05:50 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2024-09-14 18:05:50 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2024-09-14 18:05:50 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2024-09-14 18:05:50 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on inputs\capture.pcap
+2024-09-14 18:06:04 INFO  cic.cs.unb.ca.ifm.Cmd    You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture.pcap
+2024-09-14 18:06:04 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture.csv
+2024-09-14 18:06:05 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-09-14 18:06:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2024-09-14 18:06:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2024-09-14 18:06:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2024-09-14 18:06:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2024-09-14 18:06:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2024-09-14 18:06:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2024-09-14 18:06:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2024-09-14 18:06:05 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture.pcap
+2024-09-14 18:07:38 INFO  cic.cs.unb.ca.ifm.Cmd    You select: D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture.pcap
+2024-09-14 18:07:38 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: D:\FYP BACKEND\CICFlowmeter\bin\outputs\capture.csv
+2024-09-14 18:07:39 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2024-09-14 18:07:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2024-09-14 18:07:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2024-09-14 18:07:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2024-09-14 18:07:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2024-09-14 18:07:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2024-09-14 18:07:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2024-09-14 18:07:40 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2024-09-14 18:07:40 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on D:\FYP BACKEND\CICFlowmeter\bin\inputs\capture.pcap
